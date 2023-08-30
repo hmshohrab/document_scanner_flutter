@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7a4feaa-1e0c-4780-bbde-f14af2a4de95" name="Changes" comment="library upgraded">
+    <list default="true" id="d7a4feaa-1e0c-4780-bbde-f14af2a4de95" name="Changes" comment="advance_pdf_viewer upgraded">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +69,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693381885378</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="advance_pdf_viewer upgraded">
+      <created>1693382472604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693382472604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="library upgraded" />
-    <option name="LAST_COMMIT_MESSAGE" value="library upgraded" />
+    <MESSAGE value="advance_pdf_viewer upgraded" />
+    <option name="LAST_COMMIT_MESSAGE" value="advance_pdf_viewer upgraded" />
   </component>
 </project>
